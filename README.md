@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheoCaudan
+- 👀 I’m interested in Harmony, Rythms and Music in general
+- 🌱 I’m currently learning Front-End development, JS, HTML and CSS are my things
+- 💞️ I’m looking to collaborate on learning all I can to improve my skills
+- 📫 It's possible to reach me by email at theocaudan38@gmail.com 
