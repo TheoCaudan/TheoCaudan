@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheoCaudan
-- 👀 I’m interested in Harmony, Rythms and Music in general
-- 🌱 I’m currently learning Front-End development, JS, HTML and CSS are my things
-- 💞️ I’m looking to collaborate on learning all I can to improve my skills
+- 👀 I’m interested in Music, Backpacking and Cybersecurity
+- 🌱 I’m currently working as a technician in a big company and learning on my spare time all I can about Ethical Hacking and Cybersecurity in general
+- 💞️ I’m looking to collaborate on learning all I can to improve my skills in Cybersecurity and IT in all its aspects
 - 📫 It's possible to reach me by email at theocaudan38@gmail.com 
