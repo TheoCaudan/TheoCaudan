@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @TheoCaudan
 - 👀 I’m interested in Music, Backpacking and Cybersecurity
-- 🌱 Soon I'll be in coop training course as an IT engineer specialized in Cybersecurity in Operation Projects Quality and Safety Services of the company I work for. 
-- 💞️ I’m looking to collaborate on learning all I can to improve my skills in Cybersecurity and IT in all its aspects
-- 📫 It's possible to reach me by email at theocaudan38@gmail.com 
