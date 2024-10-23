@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TheoCaudan
-- 👀 I’m interested in Music,Backpacking and Cybersecurity
+- 👀 I’m interested in Music, Backpacking and Cybersecurity
