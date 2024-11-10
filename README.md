@@ -1,2 +1,7 @@
 - 👋 Hi, I’m @TheoCaudan
-- 👀 I’m interested in Music, Backpacking and Cybersecurity/General IT Knowledge
+- 👀 I’m interested in Music and Cybersecurity/General IT Knowledge
+- I do play guitar a lot and a bit of drums, some times at night, my neighbors love me.
+- I am currently in "Systems, Networks and Data Bases Administration" learning path in a work-study apprenticeship for the last year of Bachelor, in order to be prepared for next year.
+- Next year, the plan is to follow a Cybersecurity-focused path for the Master degree level.
+- I am learning on my own time a lot about C and x86-Assembly and developing a bit in Python.
+- I talk a lot about Cybersecurity and IT in general, my present favorite subject ? Buffer Overflows Attacks !
