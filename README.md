@@ -2,7 +2,7 @@
 
 - 🔐 Cybersecurity Engineer passionate about Red, Blue, and Purple teaming
 - 🏭 Focused on IT/OT security, detection engineering, and offensive tools
-- 💻 Building PurpleBox: a lab for integrated attack & detectiom validation
+- 💻 Building PurpleBox: a lab for integrated attack & detection validation
 - 🎒 Looking for oppotunities worldwide
 - 📲 How to reach me: [theocaudan38@gmail.com]
 
