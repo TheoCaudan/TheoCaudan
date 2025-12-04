@@ -8,5 +8,4 @@
 
 ## 🔧 My Top Projects
 - [PurpleBox](work in progress)
-- [Red Toolkit](need to upload)
 - [Detection Engineering](need to polish and upload)
